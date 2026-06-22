@@ -1,9 +1,12 @@
+// This code aims to display hours and minutes//
+
 #include <iostream>
 using namespace std;
 void display(int, int);
 
 int main()
 {
+    // This code
     int hours;
     cout << "Enter the numbers of hours: ";
     cin  >> hours;
